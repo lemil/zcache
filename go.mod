@@ -1,3 +1,3 @@
-module zgo.at/zcache
+module github.com/lemil/zcache
 
 go 1.13
